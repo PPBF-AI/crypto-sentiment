@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-11-25T14:42:11.858462",
+  "total": {
+    "value": 43
+  },
+  "drivers": {
+    "fear_greed": {
+      "label": "Fear & Greed",
+      "value": 20,
+      "delta": 0
+    },
+    "news": {
+      "label": "News Sentiment",
+      "value": 50,
+      "delta": 0
+    },
+    "social": {
+      "label": "Social Buzz",
+      "value": 50,
+      "delta": 0
+    },
+    "price_action": {
+      "label": "Price Action",
+      "value": 53,
+      "delta": 0
+    },
+    "on_chain": {
+      "label": "On-chain Activity",
+      "value": 50,
+      "delta": 0
+    }
+  },
+  "value": 43,
+  "fear_greed": 20,
+  "news_sentiment": 50,
+  "price_sentiment": 53,
+  "price_change_24h": 0.9821
+}

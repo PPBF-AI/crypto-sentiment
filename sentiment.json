@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-11-25T14:42:11.858462",
+  "timestamp": "2025-11-26T17:19:25.010110",
   "total": {
-    "value": 43
+    "value": 42
   },
   "drivers": {
     "fear_greed": {
       "label": "Fear & Greed",
-      "value": 20,
+      "value": 15,
       "delta": 0
     },
     "news": {
@@ -21,7 +21,7 @@
     },
     "price_action": {
       "label": "Price Action",
-      "value": 53,
+      "value": 52,
       "delta": 0
     },
     "on_chain": {
@@ -30,9 +30,9 @@
       "delta": 0
     }
   },
-  "value": 43,
-  "fear_greed": 20,
+  "value": 42,
+  "fear_greed": 15,
   "news_sentiment": 50,
-  "price_sentiment": 53,
-  "price_change_24h": 0.9821
+  "price_sentiment": 52,
+  "price_change_24h": 0.63785
 }

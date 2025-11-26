@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-26T17:19:25.010110",
+  "timestamp": "2025-11-26T17:45:42.342868",
   "total": {
     "value": 42
   },
@@ -21,7 +21,7 @@
     },
     "price_action": {
       "label": "Price Action",
-      "value": 52,
+      "value": 54,
       "delta": 0
     },
     "on_chain": {
@@ -33,6 +33,6 @@
   "value": 42,
   "fear_greed": 15,
   "news_sentiment": 50,
-  "price_sentiment": 52,
-  "price_change_24h": 0.63785
+  "price_sentiment": 54,
+  "price_change_24h": 1.33435
 }

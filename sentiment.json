@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-11-27T11:48:04.511224",
+  "timestamp": "2025-11-27T13:41:25.936992",
   "total": {
-    "value": 47
+    "value": 46
   },
   "drivers": {
     "fear_greed": {
@@ -21,7 +21,7 @@
     },
     "price_action": {
       "label": "Price Action",
-      "value": 65,
+      "value": 63,
       "delta": 0
     },
     "on_chain": {
@@ -30,9 +30,9 @@
       "delta": 0
     }
   },
-  "value": 47,
+  "value": 46,
   "fear_greed": 22,
   "news_sentiment": 50,
-  "price_sentiment": 65,
-  "price_change_24h": 5.00238
+  "price_sentiment": 63,
+  "price_change_24h": 4.33596
 }

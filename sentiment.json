@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-11-28T23:47:47.954875",
+  "timestamp": "2025-11-29T00:00:21.564061",
   "total": {
     "value": 44
   },
   "drivers": {
     "fear_greed": {
       "label": "Fear & Greed",
-      "value": 25,
+      "value": 28,
       "delta": 0
     },
     "news": {
@@ -31,8 +31,8 @@
     }
   },
   "value": 44,
-  "fear_greed": 25,
+  "fear_greed": 28,
   "news_sentiment": 50,
   "price_sentiment": 49,
-  "price_change_24h": -0.37931
+  "price_change_24h": -0.40896
 }

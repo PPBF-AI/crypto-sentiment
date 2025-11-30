@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-29T23:47:37.711430",
+  "timestamp": "2025-11-30T00:00:29.265770",
   "total": {
     "value": 44
   },
@@ -34,5 +34,5 @@
   "fear_greed": 28,
   "news_sentiment": 50,
   "price_sentiment": 50,
-  "price_change_24h": -0.09986
+  "price_change_24h": -0.06524
 }

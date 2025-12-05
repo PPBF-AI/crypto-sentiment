@@ -1,0 +1,364 @@
+{
+  "points": [
+    {
+      "timestamp": "2025-11-28T17:13:33.977689",
+      "total": 45,
+      "drivers": {
+        "fear_greed": 25,
+        "news": 50,
+        "social": 50,
+        "price_action": 50,
+        "on_chain": 50,
+        "liquidity": 50
+      }
+    },
+    {
+      "timestamp": "2025-11-28T17:13:37.286343",
+      "total": 45,
+      "drivers": {
+        "fear_greed": 25,
+        "news": 50,
+        "social": 50,
+        "price_action": 50,
+        "on_chain": 50,
+        "liquidity": 50
+      }
+    },
+    {
+      "timestamp": "2025-11-28T17:13:42.156693",
+      "total": 45,
+      "drivers": {
+        "fear_greed": 25,
+        "news": 50,
+        "social": 50,
+        "price_action": 50,
+        "on_chain": 50,
+        "liquidity": 50
+      }
+    },
+    {
+      "timestamp": "2025-11-28T17:13:44.904495",
+      "total": 45,
+      "drivers": {
+        "fear_greed": 25,
+        "news": 50,
+        "social": 50,
+        "price_action": 50,
+        "on_chain": 50,
+        "liquidity": 50
+      }
+    },
+    {
+      "timestamp": "2025-11-28T17:13:47.940844",
+      "total": 44,
+      "drivers": {
+        "fear_greed": 25,
+        "news": 50,
+        "social": 50,
+        "price_action": 49,
+        "on_chain": 50,
+        "liquidity": 45
+      }
+    },
+    {
+      "timestamp": "2025-12-01T17:24:59.446694",
+      "total": 42,
+      "drivers": {
+        "fear_greed": 24,
+        "news": 50,
+        "social": 50,
+        "price_action": 28,
+        "on_chain": 50,
+        "liquidity": 60
+      }
+    },
+    {
+      "timestamp": "2025-12-01T17:39:11.739749",
+      "total": 42,
+      "drivers": {
+        "fear_greed": 24,
+        "news": 50,
+        "social": 50,
+        "price_action": 29,
+        "on_chain": 50,
+        "liquidity": 60
+      }
+    },
+    {
+      "timestamp": "2025-12-02T17:09:17.359583",
+      "total": 50,
+      "drivers": {
+        "fear_greed": 23,
+        "news": 50,
+        "social": 50,
+        "price_action": 72,
+        "on_chain": 50,
+        "liquidity": 57
+      }
+    },
+    {
+      "timestamp": "2025-12-02T17:14:47.212679",
+      "total": 50,
+      "drivers": {
+        "fear_greed": 23,
+        "news": 50,
+        "social": 50,
+        "price_action": 73,
+        "on_chain": 50,
+        "liquidity": 57
+      }
+    },
+    {
+      "timestamp": "2025-12-02T17:20:19.171278",
+      "total": 50,
+      "drivers": {
+        "fear_greed": 23,
+        "news": 50,
+        "social": 50,
+        "price_action": 73,
+        "on_chain": 50,
+        "liquidity": 58
+      }
+    },
+    {
+      "timestamp": "2025-12-03T08:52:29.166688",
+      "total": 56,
+      "drivers": {
+        "fear_greed": 28,
+        "news": 51,
+        "social": 50,
+        "price_action": 86,
+        "on_chain": 48,
+        "liquidity": 74
+      }
+    },
+    {
+      "timestamp": "2025-12-03T08:52:44.616159",
+      "total": 56,
+      "drivers": {
+        "fear_greed": 28,
+        "news": 51,
+        "social": 47,
+        "price_action": 86,
+        "on_chain": 49,
+        "liquidity": 74
+      }
+    },
+    {
+      "timestamp": "2025-12-03T08:57:57.406127",
+      "total": 56,
+      "drivers": {
+        "fear_greed": 28,
+        "news": 49,
+        "social": 50,
+        "price_action": 87,
+        "on_chain": 50,
+        "liquidity": 74
+      }
+    },
+    {
+      "timestamp": "2025-12-03T09:31:10.456110",
+      "total": 56,
+      "drivers": {
+        "fear_greed": 28,
+        "news": 51,
+        "social": 50,
+        "price_action": 85,
+        "on_chain": 51,
+        "liquidity": 74
+      }
+    },
+    {
+      "timestamp": "2025-12-03T10:06:28.442032",
+      "total": 57,
+      "drivers": {
+        "fear_greed": 28,
+        "news": 49,
+        "social": 53,
+        "price_action": 86,
+        "on_chain": 53,
+        "liquidity": 74
+      }
+    },
+    {
+      "timestamp": "2025-12-03T10:21:13.894760",
+      "total": 57,
+      "drivers": {
+        "fear_greed": 28,
+        "news": 50,
+        "social": 53,
+        "price_action": 86,
+        "on_chain": 53,
+        "liquidity": 74
+      }
+    },
+    {
+      "timestamp": "2025-12-03T14:00:24.845460",
+      "total": 57,
+      "drivers": {
+        "fear_greed": 28,
+        "news": 50,
+        "social": 57,
+        "price_action": 81,
+        "on_chain": 53,
+        "liquidity": 74
+      }
+    },
+    {
+      "timestamp": "2025-12-03T14:10:49.068634",
+      "total": 50,
+      "drivers": {
+        "fear_greed": 28,
+        "news": 50,
+        "social": 50,
+        "price_action": 64,
+        "on_chain": 50,
+        "liquidity": 60
+      }
+    },
+    {
+      "timestamp": "2025-12-03T15:14:38.570199",
+      "total": 49,
+      "drivers": {
+        "fear_greed": 28,
+        "news": 50,
+        "social": 50,
+        "price_action": 58,
+        "on_chain": 50,
+        "liquidity": 60
+      }
+    },
+    {
+      "timestamp": "2025-12-03T15:15:04.703881",
+      "total": 47,
+      "drivers": {
+        "fear_greed": 28,
+        "news": 50,
+        "social": 50,
+        "price_action": 58,
+        "on_chain": 50,
+        "liquidity": 50
+      }
+    },
+    {
+      "timestamp": "2025-12-03T15:15:26.073217",
+      "total": 46,
+      "drivers": {
+        "fear_greed": 28,
+        "news": 50,
+        "social": 50,
+        "price_action": 50,
+        "on_chain": 50,
+        "liquidity": 50
+      }
+    },
+    {
+      "timestamp": "2025-12-03T15:16:37.398254",
+      "total": 48,
+      "drivers": {
+        "fear_greed": 28,
+        "news": 50,
+        "social": 50,
+        "price_action": 55,
+        "on_chain": 50,
+        "liquidity": 60
+      }
+    },
+    {
+      "timestamp": "2025-12-03T15:18:25.875030",
+      "total": 48,
+      "drivers": {
+        "fear_greed": 28,
+        "news": 50,
+        "social": 50,
+        "price_action": 55,
+        "on_chain": 50,
+        "liquidity": 60
+      }
+    },
+    {
+      "timestamp": "2025-12-03T15:19:46.999861",
+      "total": 48,
+      "drivers": {
+        "fear_greed": 28,
+        "news": 50,
+        "social": 50,
+        "price_action": 56,
+        "on_chain": 50,
+        "liquidity": 60
+      }
+    },
+    {
+      "timestamp": "2025-12-03T15:28:57.976687",
+      "total": 48,
+      "drivers": {
+        "fear_greed": 28,
+        "news": 52,
+        "social": 50,
+        "price_action": 57,
+        "on_chain": 47,
+        "liquidity": 59
+      }
+    },
+    {
+      "timestamp": "2025-12-03T15:29:14.137640",
+      "total": 48,
+      "drivers": {
+        "fear_greed": 28,
+        "news": 53,
+        "social": 50,
+        "price_action": 57,
+        "on_chain": 51,
+        "liquidity": 50
+      }
+    },
+    {
+      "timestamp": "2025-12-03T15:29:25.648679",
+      "total": 45,
+      "drivers": {
+        "fear_greed": 28,
+        "news": 47,
+        "social": 48,
+        "price_action": 50,
+        "on_chain": 53,
+        "liquidity": 50
+      }
+    },
+    {
+      "timestamp": "2025-12-03T15:30:29.180736",
+      "total": 47,
+      "drivers": {
+        "fear_greed": 28,
+        "news": 48,
+        "social": 43,
+        "price_action": 57,
+        "on_chain": 53,
+        "liquidity": 59
+      }
+    },
+    {
+      "timestamp": "2025-12-04T16:58:40.883587",
+      "total": 47,
+      "drivers": {
+        "fear_greed": 26,
+        "news": 55,
+        "social": 54,
+        "price_action": 50,
+        "on_chain": 52,
+        "liquidity": 51
+      }
+    },
+    {
+      "timestamp": "2025-12-04T17:16:17.561959",
+      "total": 47,
+      "drivers": {
+        "fear_greed": 26,
+        "news": 53,
+        "social": 57,
+        "price_action": 50,
+        "on_chain": 50,
+        "liquidity": 52
+      }
+    }
+  ]
+}

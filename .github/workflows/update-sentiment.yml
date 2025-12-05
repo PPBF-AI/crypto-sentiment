@@ -1,0 +1,47 @@
+name: Update sentiment data
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-sentiment:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Run sentiment generator
+        run: |
+          python sentiment_generator.py
+
+      - name: Commit updated sentiment data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add sentiment.json history.json sentiment_state.json || echo "No data files to add"
+
+          if git diff --cached --quiet; then
+            echo "No changes in data files; skipping commit."
+          else
+            git commit -m "Update sentiment data [skip ci]"
+            git push
+          fi

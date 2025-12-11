@@ -1991,6 +1991,18 @@
         "on_chain": 50,
         "liquidity": 55
       }
+    },
+    {
+      "timestamp": "2025-12-11T15:52:57.570497",
+      "total": 46,
+      "drivers": {
+        "fear_greed": 29,
+        "news": 54,
+        "social": 49,
+        "price_action": 43,
+        "on_chain": 50,
+        "liquidity": 56
+      }
     }
   ]
 }

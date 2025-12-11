@@ -2015,6 +2015,18 @@
         "on_chain": 49,
         "liquidity": 56
       }
+    },
+    {
+      "timestamp": "2025-12-11T17:58:53.410539",
+      "total": 47,
+      "drivers": {
+        "fear_greed": 29,
+        "news": 57,
+        "social": 56,
+        "price_action": 42,
+        "on_chain": 48,
+        "liquidity": 56
+      }
     }
   ]
 }

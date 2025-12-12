@@ -2099,6 +2099,18 @@
         "on_chain": 51,
         "liquidity": 53
       }
+    },
+    {
+      "timestamp": "2025-12-12T03:50:39.602368",
+      "total": 49,
+      "drivers": {
+        "fear_greed": 29,
+        "news": 60,
+        "social": 43,
+        "price_action": 58,
+        "on_chain": 53,
+        "liquidity": 52
+      }
     }
   ]
 }

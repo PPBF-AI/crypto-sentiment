@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-01-06T05:51:36.782083",
+  "timestamp": "2026-01-06T06:41:45.388214",
   "total": {
-    "value": 52
+    "value": 50
   },
   "drivers": {
     "fear_greed": {
@@ -11,23 +11,23 @@
     },
     "news": {
       "label": "News Sentiment",
-      "value": 50,
-      "delta": 4
+      "value": 51,
+      "delta": 1
     },
     "social": {
       "label": "Social Buzz",
-      "value": 54,
-      "delta": 10
+      "value": 48,
+      "delta": -6
     },
     "price_action": {
       "label": "Price Action",
-      "value": 54,
+      "value": 55,
       "delta": 1
     },
     "on_chain": {
       "label": "On-chain Activity",
-      "value": 51,
-      "delta": 1
+      "value": 46,
+      "delta": -5
     },
     "liquidity": {
       "label": "Liquidity",
@@ -35,10 +35,10 @@
       "delta": 0
     }
   },
-  "value": 52,
+  "value": 50,
   "fear_greed": 44,
-  "news_sentiment": 50,
-  "price_sentiment": 54,
-  "price_change_24h": 1.18306,
+  "news_sentiment": 51,
+  "price_sentiment": 55,
+  "price_change_24h": 1.69386,
   "liquidity_sentiment": 59
 }

@@ -1,18 +1,6 @@
 {
   "points": [
     {
-      "timestamp": "2026-04-17T15:36:30.703500",
-      "total": 48,
-      "drivers": {
-        "fear_greed": 21,
-        "news": 45,
-        "social": 56,
-        "price_action": 63,
-        "on_chain": 48,
-        "liquidity": 61
-      }
-    },
-    {
       "timestamp": "2026-04-17T16:57:39.270253",
       "total": 50,
       "drivers": {
@@ -2397,6 +2385,18 @@
         "social": 43,
         "price_action": 52,
         "on_chain": 50,
+        "liquidity": 49
+      }
+    },
+    {
+      "timestamp": "2026-04-30T23:29:27.544054",
+      "total": 47,
+      "drivers": {
+        "fear_greed": 29,
+        "news": 52,
+        "social": 51,
+        "price_action": 52,
+        "on_chain": 54,
         "liquidity": 49
       }
     }

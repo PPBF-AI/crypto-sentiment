@@ -2,10 +2,10 @@
   "drivers": {
     "fear_greed": 73,
     "news": 47,
-    "social": 57,
-    "price_action": 55,
-    "on_chain": 56,
+    "social": 53,
+    "price_action": 54,
+    "on_chain": 51,
     "liquidity": 44
   },
-  "timestamp": "2026-08-24T05:18:28.119082"
+  "timestamp": "2026-08-24T06:04:12.582827"
 }

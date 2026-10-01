@@ -1,11 +1,11 @@
 {
   "drivers": {
     "fear_greed": 74,
-    "news": 46,
-    "social": 46,
-    "price_action": 52,
-    "on_chain": 56,
-    "liquidity": 49
+    "news": 50,
+    "social": 56,
+    "price_action": 54,
+    "on_chain": 51,
+    "liquidity": 52
   },
-  "timestamp": "2026-10-01T14:41:14.519104"
+  "timestamp": "2026-10-01T20:13:48.727278"
 }
